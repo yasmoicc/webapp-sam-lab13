@@ -29,3 +29,34 @@ D:\Estudiar\Azure GitHub Labs\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfil
 D:\Estudiar\Azure GitHub Labs\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\13\Starter\webapp-sam-lab13\obj\Debug\net8.0\webapp-sam-lab13.pdb
 D:\Estudiar\Azure GitHub Labs\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\13\Starter\webapp-sam-lab13\obj\Debug\net8.0\webapp-sam-lab13.genruntimeconfig.cache
 D:\Estudiar\Azure GitHub Labs\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\13\Starter\webapp-sam-lab13\obj\Debug\net8.0\ref\webapp-sam-lab13.dll
+D:\My Tests\webapp-sam-lab13\bin\Debug\net8.0\appsettings.Development.json
+D:\My Tests\webapp-sam-lab13\bin\Debug\net8.0\appsettings.json
+D:\My Tests\webapp-sam-lab13\bin\Debug\net8.0\webapp-sam-lab13.staticwebassets.runtime.json
+D:\My Tests\webapp-sam-lab13\bin\Debug\net8.0\webapp-sam-lab13.exe
+D:\My Tests\webapp-sam-lab13\bin\Debug\net8.0\webapp-sam-lab13.deps.json
+D:\My Tests\webapp-sam-lab13\bin\Debug\net8.0\webapp-sam-lab13.runtimeconfig.json
+D:\My Tests\webapp-sam-lab13\bin\Debug\net8.0\webapp-sam-lab13.dll
+D:\My Tests\webapp-sam-lab13\bin\Debug\net8.0\webapp-sam-lab13.pdb
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\webapp-sam-lab13.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\webapp-sam-lab13.AssemblyInfoInputs.cache
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\webapp-sam-lab13.AssemblyInfo.cs
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\webapp-sam-lab13.csproj.CoreCompileInputs.cache
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\webapp-sam-lab13.MvcApplicationPartsAssemblyInfo.cache
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\webapp-sam-lab13.RazorAssemblyInfo.cache
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\webapp-sam-lab13.RazorAssemblyInfo.cs
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\webapp-sam-lab13.sourcelink.json
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\staticwebassets.build.json
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\staticwebassets.development.json
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\staticwebassets\msbuild.webapp-sam-lab13.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\staticwebassets\msbuild.build.webapp-sam-lab13.props
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.webapp-sam-lab13.props
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.webapp-sam-lab13.props
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\staticwebassets.pack.json
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\scopedcss\bundle\webapp-sam-lab13.styles.css
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\scopedcss\projectbundle\webapp-sam-lab13.bundle.scp.css
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\webapp-sam-lab13.dll
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\refint\webapp-sam-lab13.dll
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\webapp-sam-lab13.pdb
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\webapp-sam-lab13.genruntimeconfig.cache
+D:\My Tests\webapp-sam-lab13\obj\Debug\net8.0\ref\webapp-sam-lab13.dll
